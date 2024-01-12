@@ -1,0 +1,18 @@
+.navbar {
+  padding: 2px;
+  bottom: 0;
+  position: fixed;
+}
+a{
+  border: 1px solid lightgrey;
+  padding: 2px;
+  text-decoration: none;
+  color: black;
+  background-color: rgb(240, 240, 240);
+}
+a:hover {
+  background-color: lightgrey;
+}
+a:active {
+  background-color: grey;
+}
